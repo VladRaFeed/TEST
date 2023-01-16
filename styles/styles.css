@@ -1,0 +1,32 @@
+body {
+}
+
+.headr {
+  background-color: darkseagreen;
+}
+
+.container {
+  background-color: gold;
+}
+.row {
+  background-color: darkgreen;
+}
+.services {
+  background-color: crimson;
+}
+.about {
+  background-color: red;
+}
+.about_position {
+  background-color: aqua;
+}
+.about_name {
+  background-color: blue;
+}
+.about_description {
+  background-color: black;
+}
+
+.fotr {
+  background-color: yellow;
+}
